@@ -10,7 +10,7 @@ Este é o meu espaço para partilhar projetos, ideias e experiências.
 </p>
 
 <p align="center">
-  <img src="https://link_da_imagem/avatar.gif" alt="Avatar GitHub" width="150px">
+  <img src="https://github.com/Vera-Esteves/Vera-Esteves/blob/main/dreamina-2025-09-24-7210-Circular%20dynamic%20avatar%2C%20futuristic%20digi....mp4" alt="Avatar GitHub" width="150px">
 </p>
 
 ---
