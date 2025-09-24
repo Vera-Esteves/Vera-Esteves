@@ -1,8 +1,7 @@
 <h1 align="center">👩‍💻 <b>Bem-vindo(a) ao meu GitHub 🌿✨</b></h1>
 
 <p align="center">
-  Sou programadora apaixonada por **tecnologia, ensino, desporto, jogos e natureza** 🌱.
-  Aqui partilho projetos, ideias e experiências que me inspiram.
+  Sou programadora apaixonada por <b>tecnologia, ensino, desporto, jogos e natureza </b> 🌱.
 </p>
 ---
 
@@ -22,6 +21,10 @@
 - **Backend:** Node.js | Django | Spring
 - **Bases de Dados:** MySQL | PostgreSQL
 - **Outros:** Git | Docker | APIs REST
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
 
 ---
 
