@@ -22,33 +22,11 @@
 - **Bases de Dados:** MySQL | PostgreSQL
 - **Outros:** Git | Docker | APIs REST
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=radical" height="180em" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=radical" height="180em" />
-</div>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=default" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=default" height="180em" />
 </div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=github_dark" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=github_dark" height="180em" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vera-Esteves&theme=radical" />
-</p>
-
 
 ---
 
