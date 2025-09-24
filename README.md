@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-Sou programadora apaixonada por tecnologia, ensino, desporto, jogos e natureza 🌱.  
-Aqui partilho projetos, ideias e experiências que me inspiram.
+  Sou programadora apaixonada por tecnologia, ensino, desporto, jogos e natureza 🌱.
+  Aqui partilho projetos, ideias e experiências que me inspiram.
 </p>
 ---
 
@@ -29,11 +29,11 @@ Aqui partilho projetos, ideias e experiências que me inspiram.
 
 ## 🎯 Interesses
 - Ensino e aprendizagem contínua 📚  
-- Arbitragem de futebol ⚽  
-- Desporto e vida ativa 🏃‍♀️  
-- Jogos de consola 🎮  
-- Família e filhos 👩‍👧‍👦  
-- Amor por cães 🐶
+- Futebol ⚽  
+- Sports Lover 🏃‍♀️  
+- Playing 🎮  
+- Famelga 👩‍👧‍👦  
+- Olívia e Óscar 🐶
 
 ---
 
