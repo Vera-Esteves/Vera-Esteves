@@ -7,8 +7,9 @@
 ---
 
 <p align="center">
-  <img src="[https://github.com/Vera-Esteves/Vera-Esteves/blob/main/Dreamina.gif](https://github.com/Vera-Esteves/Vera-Esteves/blob/main/Dreamina.gif)" alt="Banner GitHub" width="100%">
+  <img src="https://raw.githubusercontent.com/Vera-Esteves/Vera-Esteves/main/Dreamina.gif" alt="Banner GitHub" width="100%">
 </p>
+
 
 <p align="center">
   <b><em> Software Engineer  || Physical Education and Programming Teacher || Sports Lover </em></b>
