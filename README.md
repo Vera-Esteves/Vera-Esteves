@@ -22,7 +22,6 @@
 - **Bases de Dados:** MySQL | PostgreSQL
 - **Outros:** Git | Docker | APIs REST
   
----
 
 ## 📊 Estatísticas do GitHub
 
