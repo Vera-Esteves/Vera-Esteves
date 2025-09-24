@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em> Software Engineer  || Physical Education and Programation Teacher ||  Sports Lover </em>
+  <b> <em> Software Engineer  || Physical Education and Programation Teacher ||  Sports Lover </em></b>
 </p>
 
 ---
