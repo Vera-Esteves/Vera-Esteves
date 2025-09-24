@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vera-Esteves/Vera-Esteves/main/Dreamina.gif" alt="Banner GitHub" width="100%">
+  <img src="https://github.com/Vera-Esteves/Vera-Esteves/blob/main/avatar.gif?raw=true" alt="Banner GitHub" width="100%">
 </p>
 
 
