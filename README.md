@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Vera-Esteves/Vera-Esteves/blob/main/dreamina-2025-09-24-7210-Circular%20dynamic%20avatar%2C%20futuristic%20digi...gif" alt="Banner GitHub" width="100%">
+  <img src="https://github.com/Vera-Esteves/Vera-Esteves/blob/main/Dreamina.gif" alt="Banner GitHub" width="100%">
 </p>
 
 <p align="center">
