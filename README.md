@@ -3,6 +3,8 @@
 <p align="center">
   Sou programadora apaixonada por <b>tecnologia, ensino, desporto, jogos e natureza </b> 🌱.
 </p>
+
+---
 ---
 
 <p align="center">
@@ -21,7 +23,8 @@
 - **Backend:** Node.js | Django | Spring
 - **Bases de Dados:** MySQL | PostgreSQL
 - **Outros:** Git | Docker | APIs REST
-  
+
+---
 
 ## 📊 Estatísticas do GitHub
 
@@ -33,7 +36,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vera-Esteves&theme=default" alt="GitHub Streak" />
 </p>
-
 
 ---
 
