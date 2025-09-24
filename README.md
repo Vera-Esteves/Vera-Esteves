@@ -38,8 +38,8 @@
 ---
 
 ## 📫 Contactos
-- **LinkedIn:** https://www.linkedin.com/in/estevesv/
-- **Email:** vera.esteves@proton.me
+- **LinkedIn:** [linkedin.com/in/estevesv](https://www.linkedin.com/in/estevesv/)  
+- **Email:** [vera.esteves@proton.me](mailto:vera.esteves@proton.me)  
 
 ---
 
