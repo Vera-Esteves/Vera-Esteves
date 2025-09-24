@@ -21,30 +21,26 @@
 - **Backend:** Node.js | Django | Spring
 - **Bases de Dados:** MySQL | PostgreSQL
 - **Outros:** Git | Docker | APIs REST
+  
+---
 
-1
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=radical" height="180em" />
-</div>
+## 📊 Estatísticas do GitHub
 
-2
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=radical" width="45%">
-</p>
-
-3
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=radical" />
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=default" height="180em" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=radical" />
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=default" height="180em" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vera-Esteves&theme=default" alt="GitHub Streak" />
+</p>
+
 
 ---
 
