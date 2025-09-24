@@ -32,9 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=default" width="45%">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vera-Esteves&theme=default" alt="GitHub Streak" />
-</p>
+
 
 ---
 
