@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 <b>Bem-vindo(a) ao meu GitHub 🌿✨</b></h1>
 
 <p align="center">
-  Sou programadora apaixonada por <b>tecnologia, ensino, desporto, jogos e natureza </b> 🌱.
+  Sou programadora apaixonada por <b>tecnologia, ensino, desporto, jogos e natureza</b> 🌱.
 </p>
 
 ---
@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <b> <em> Software Engineer  || Physical Education and Programation Teacher ||  Sports Lover </em></b>
+  <b><em> Software Engineer  || Physical Education and Programming Teacher || Sports Lover </em></b>
 </p>
 
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** C/C++ | C# | Java | Python
-- **Frontend:** HTML5 | CSS3
-- **Backend:** Node.js | Django | Spring
-- **Bases de Dados:** MySQL | PostgreSQL
-- **Outros:** Git | Docker | APIs REST
+- **Linguagens:** C/C++ | C# | Java | Python  
+- **Frontend:** HTML5 | CSS3  
+- **Backend:** Node.js | Django | Spring  
+- **Bases de Dados:** MySQL | PostgreSQL  
+- **Outros:** Git | Docker | APIs REST  
 
 ---
 
@@ -41,10 +41,10 @@
 ## 🎯 Interesses
 - Ensino e aprendizagem contínua 📚  
 - Futebol ⚽  
-- Sports Lover 🏃‍♀️  
-- Playing 🎮  
-- Famelga 👩‍👧‍👦  
-- Olívia e Óscar 🐶
+- Desporto e vida ativa 🏃‍♀️  
+- Videojogos 🎮  
+- Família 👩‍👧‍👦  
+- Olívia e Óscar 🐶  
 
 ---
 
@@ -54,4 +54,6 @@
 
 ---
 
-✨ _“Transformar ideias em código é o meu superpoder.”_
+<p align="center">
+✨ <i>“Transformar ideias em código é o meu superpoder.”</i> ✨
+</p>
