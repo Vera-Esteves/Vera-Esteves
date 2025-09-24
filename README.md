@@ -28,10 +28,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=default" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=default" width="45%">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vera-Esteves&show_icons=true&theme=default" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera-Esteves&layout=compact&theme=default" height="180em" />
+</div>
 
 
 
