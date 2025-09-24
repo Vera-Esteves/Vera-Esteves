@@ -35,8 +35,8 @@ Tudo numa paleta vibrante: verde alface, laranja pôr-do-sol e azul elétrico.
 ---
 
 ## 📫 Contactos
-- **LinkedIn:** [teu_link](https://linkedin.com)
-- **Email:** teu_email@example.com
+- **LinkedIn:** [teu_link]([https://linkedin.com](https://www.linkedin.com/in/estevesv/))
+- **Email:** vera.esteves@proton.me
 
 ---
 
