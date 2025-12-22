@@ -18,7 +18,7 @@
 ---
 
 ### 🧠 Sobre Mim
-- Licenciatura em Engenharia Informática 💻  
+- Licenciatura em Engenharia Informática (Em Frequência) 💻  
 - Mestrado em Educação Física 🏃‍♀️
   
 ---
