@@ -1,7 +1,7 @@
-<h1 align="center">👩‍💻 <b>Bem-vindo(a) ao meu GitHub 🌿✨</b></h1>
+<h1 align="center">👩‍💻 <b>Welcome to my GitHub. 🌿✨</b></h1>
 
 <p align="center">
-  Sou programadora apaixonada por <b>tecnologia, ensino, desporto, jogos e natureza</b> 🌱.
+  I am a programmer passionate about technology, teaching, sports, games, and nature.</b> 🌱.
 </p>
 
 ---
