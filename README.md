@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 <b>Welcome to my GitHub. 🌿✨</b></h1>
 
 <p align="center">
-  I am a programmer passionate about technology, teaching, sports, games, and nature.</b> 🌱.
+  I am passionate about technology, teaching, sports, games, and nature.</b> 🌱.
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <b><em> Software Engineer  || Physical Education and Programming Teacher || Sports Lover </em></b>
+  <b><em> Almost Software Engineer  || Physical Education and Programming Teacher || Sports Lover </em></b>
 </p>
 
 ---
