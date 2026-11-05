@@ -20,16 +20,6 @@
 ### 🧠 Sobre Mim
 - Licenciatura em Engenharia Informática (Em Frequência) 💻  
 - Mestrado em Educação Física 🏃‍♀️
-  
----
-
-## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** C/C++ | C# | Java | Python  
-- **Frontend:** HTML5 | CSS3  
-- **Backend:** Node.js | Django | Spring  
-- **Bases de Dados:** MySQL | PostgreSQL  
-- **Outros:** Git | Docker | APIs REST  
-
 ---
 
 ## 📊 Estatísticas do GitHub
