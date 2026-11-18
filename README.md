@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <b><em> Almost Software Engineer  || Physical Education and Programming Teacher || Sports Lover </em></b>
+  <b><em> Almost Software Engineer  || Physical Education || Sports Lover </em></b>
 </p>
 
 ---
